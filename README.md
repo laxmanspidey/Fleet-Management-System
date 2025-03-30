@@ -47,11 +47,11 @@ Run the main application:
 3. Ctrl+D decreases selected robot's battery (for testing)
 4. View real-time logs in logs/fleet_logs.txt
 
-
 ## 🗺️ Level Designs:
-(a)Level 1
-(b)Level 2
-(c)Level 3
+
+1. Level 1
+2. Level 2
+3. Level 3
 
 ###🏗️ Project Structure
   
