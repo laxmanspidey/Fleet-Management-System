@@ -9,7 +9,7 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 - Dynamic task assignment
 - Battery management with charging stations
 
-<img src="./images/Fleet Management System 30-03-2025 21_53_35.png" width=700><br>
+<img src="./images/level1.png" width=700><br>
 
 ## ✨ Features
 - **3 Distinct Levels** with progressive difficulty
