@@ -53,38 +53,31 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 ✓ Environment Visualization:
 
 Displayed all vertices (locations) and lanes clearly.
-
 Marked locations with names and intersections.
-
 Made vertices interactable (clickable) for spawning robots or assigning tasks.
 
 ✓ Robot Visualization:
 
-Used distinct colors/icons for robots.
-
-Implemented real-time movement visualization along lanes.
-
-Displayed robot statuses (moving, waiting, charging, task complete).
+  -Used distinct colors/icons for robots.
+  -Implemented real-time movement visualization along lanes.
+  -Displayed robot statuses (moving, waiting, charging, task complete).
 
 ### 2. Robot Spawning
 ✓ Interactive GUI:
 
 Enabled dynamic robot spawning by clicking vertices.
-
 Assigned and displayed unique identifiers for each robot.
 
 ### 3. Navigation Task Assignment
 ✓ Interactive Task Assignment:
 
 Allowed robot selection and destination assignment via clicks.
-
 Robots started navigation immediately after task assignment.
 
 ### 4. Traffic Negotiation & Collision Avoidance
 ✓ Real-Time Traffic Management:
 
 Implemented lane/intersection queuing to avoid collisions.
-
 Visualized waiting status (e.g., color changes, icons).
 
 ### 5. Dynamic Interaction
