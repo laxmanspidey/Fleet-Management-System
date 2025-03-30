@@ -35,10 +35,9 @@ A Python-based simulation system for managing multiple autonomous robots navigat
    pip install -r requirements.txt
 
 ## 🖥️ Usage
-Run the main application:
-    ```bash
-    python main.py
-  
+1. Run the main application::
+   ```bash
+   python main.py
 
 ## Controls:
 
@@ -53,7 +52,7 @@ Run the main application:
 2. Level 2
 3. Level 3
 
-###🏗️ Project Structure
+## 🏗️ Project Structure
   
 
 
