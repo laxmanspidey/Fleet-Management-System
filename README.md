@@ -25,6 +25,8 @@ A Python-based simulation system for managing multiple autonomous robots navigat
   - Real-time robot tracking
   - Status indicators (moving, waiting, charging)
   - Conflict notifications
+- **Path Finding Algorithm**:
+  - Breadth First Search(BFS)
 
 ## Controls:
 
