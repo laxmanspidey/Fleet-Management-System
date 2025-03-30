@@ -98,7 +98,7 @@ Provided visual notifications for blocked paths/vertices.
 Logged robot actions, paths, and statuses in fleet_logs.txt.
 
 
-### Bonus 
+### 8. Bonus 
 #### ✓ Creative Enhancements:
 1. Improved Robot intelligence so that it can easily find alternate paths, when it's shortest path is blocked by another robot.
 2. If Robot battery drops below 20%, it automatically moves to nearest charging station to recharge itself(if in case,it's nearest charging station path is blocked, robot intelligently moves to other charging station or finds alternate path for that nearest charging station).
