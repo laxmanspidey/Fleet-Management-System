@@ -50,13 +50,13 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 
 ## 🗺️ Level Designs:
 
-# 1. Level 1 
+1. Level 1 
 <img src="./images/level_1.png" width=700><br>
 
-# 2. Level 2
+2. Level 2
 <img src="./images/level_2.png" width=700><br>
 
-# 3. Level 3
+3. Level 3
 <img src="./images/level_3.png" width=700><br>
 
 ## 🏗️ Project Structure
