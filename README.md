@@ -57,7 +57,7 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 
 
 
-###🛠️ Customization
+## 🛠️ Customization
 1. Add new levels by creating JSON files in data/ following the existing format
 2. Modify robot behaviors in src/models/robot.py
 3. Adjust simulation parameters:
