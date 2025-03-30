@@ -60,8 +60,7 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 <img src="./images/level_3.png" width=700><br>
 
 ## 🏗️ Project Structure
-  
-
+<img src="./images/projectstructure.png" width=700><br>
 
 
 ## 🛠️ Customization
