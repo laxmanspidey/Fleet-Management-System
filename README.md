@@ -49,17 +49,16 @@ Run the main application:
 
 
 ## 🗺️ Level Designs
-Level 1: 
-Level 2:
-Level 3:
+(a)Level 1
+(b)Level 2
+(c)Level 3
 
-
-🏗️ Project Structure
+###🏗️ Project Structure
   
 
 
 
-🛠️ Customization
+###🛠️ Customization
 1. Add new levels by creating JSON files in data/ following the existing format
 2. Modify robot behaviors in src/models/robot.py
 3. Adjust simulation parameters:
