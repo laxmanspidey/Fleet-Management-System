@@ -56,31 +56,15 @@ Level 3:
 
 🏗️ Project Structure
   
-Copy
-fleet_management_system/
-├── data/               # Navigation graph datasets
-├── src/
-│   ├── models/         # Data models (Robots, Navigation)
-│   ├── controllers/    # System logic (Traffic, Fleet)
-│   ├── gui/            # User interface components
-│   └── utils/          # Helper functions
-├── logs/               # System operation logs
-├── assets/             # Visual assets
-├── main.py             # Application entry point
-└── requirements.txt    # Dependencies
+
 
 
 🛠️ Customization
-Add new levels by creating JSON files in data/ following the existing format
+1. Add new levels by creating JSON files in data/ following the existing format
+2. Modify robot behaviors in src/models/robot.py
+3. Adjust simulation parameters:
+    (a)Robot speed
+    (b)Battery consumption rates
 
-Modify robot behaviors in src/models/robot.py
-
-Adjust simulation parameters:
-
-Robot speed
-
-Battery consumption rates
-
-Charging speeds
 
 Developed with ❤️ by Laxman
