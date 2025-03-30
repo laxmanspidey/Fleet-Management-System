@@ -100,6 +100,7 @@ Provided visual notifications for blocked paths/vertices.
 
 Logged robot actions, paths, and statuses in fleet_logs.txt.
 
+<img src="./images/fleet_logs.txt - Notepad 30-03-2025 23_16_41.png" width=700><br>
 
 ### 8. Bonus 
 #### ✓ Creative Enhancements:
