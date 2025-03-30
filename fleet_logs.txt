@@ -1,0 +1,532 @@
+2025-03-30 19:20:39 - Robot 0 spawned at m6
+2025-03-30 19:20:39 - 2025-03-30 19:20:39 - Robot 0 spawned at m6
+2025-03-30 19:20:41 - 2025-03-30 19:20:41 - Assigned task: move to m5
+2025-03-30 19:20:41 - 2025-03-30 19:20:41 - Started moving from m6 to m6 (Battery: 99%)
+2025-03-30 19:20:42 - 2025-03-30 19:20:42 - Started moving from m6 to m5 (Battery: 98%)
+2025-03-30 19:20:43 - 2025-03-30 19:20:43 - Task completed at m5
+2025-03-30 19:20:50 - 2025-03-30 19:20:50 - Assigned task: move to m4
+2025-03-30 19:20:50 - 2025-03-30 19:20:50 - Started moving from m5 to m5 (Battery: 97%)
+2025-03-30 19:20:51 - 2025-03-30 19:20:51 - Started moving from m5 to m4 (Battery: 96%)
+2025-03-30 19:20:52 - 2025-03-30 19:20:52 - Task completed at m4
+2025-03-30 19:22:32 - Robot 0 spawned at m5
+2025-03-30 19:22:32 - 2025-03-30 19:22:32 - Robot 0 spawned at m5
+2025-03-30 19:22:33 - 2025-03-30 19:22:33 - Assigned task: move to m6
+2025-03-30 19:22:33 - 2025-03-30 19:22:33 - Started moving from m5 to m5 (Battery: 99%)
+2025-03-30 19:22:35 - 2025-03-30 19:22:35 - Started moving from m5 to m6 (Battery: 98%)
+2025-03-30 19:22:36 - 2025-03-30 19:22:36 - Task completed at m6
+2025-03-30 19:22:37 - 2025-03-30 19:22:37 - Assigned task: move to 
+2025-03-30 19:22:37 - 2025-03-30 19:22:37 - Started moving from m6 to m6 (Battery: 97%)
+2025-03-30 19:22:38 - 2025-03-30 19:22:38 - Started moving from m6 to  (Battery: 96%)
+2025-03-30 19:22:39 - 2025-03-30 19:22:39 - Started moving from  to m7 (Battery: 95%)
+2025-03-30 19:22:41 - 2025-03-30 19:22:41 - Started moving from m7 to  (Battery: 94%)
+2025-03-30 19:22:42 - 2025-03-30 19:22:42 - Task completed at 
+2025-03-30 19:22:45 - 2025-03-30 19:22:45 - Battery manually reduced to 14%
+2025-03-30 19:22:45 - 2025-03-30 19:22:45 - Low battery! Redirecting to charger at m7
+2025-03-30 19:22:45 - 2025-03-30 19:22:45 - Started moving from  to  (Battery: 13%)
+2025-03-30 19:22:46 - 2025-03-30 19:22:46 - Started moving from  to m7 (Battery: 12%)
+2025-03-30 19:22:48 - 2025-03-30 19:22:48 - Task completed at m7
+2025-03-30 19:22:50 - 2025-03-30 19:22:50 - Assigned task: move to m5
+2025-03-30 19:22:50 - 2025-03-30 19:22:50 - Low battery! Started charging at m7
+2025-03-30 19:22:55 - 2025-03-30 19:22:55 - Charging complete at m7 (Battery: 96%)
+2025-03-30 19:22:56 - 2025-03-30 19:22:56 - Assigned task: move to m5
+2025-03-30 19:22:56 - 2025-03-30 19:22:56 - Started moving from m7 to m7 (Battery: 95%)
+2025-03-30 19:22:57 - 2025-03-30 19:22:57 - Started moving from m7 to  (Battery: 94%)
+2025-03-30 19:22:59 - 2025-03-30 19:22:59 - Started moving from  to m6 (Battery: 93%)
+2025-03-30 19:23:00 - 2025-03-30 19:23:00 - Started moving from m6 to m5 (Battery: 92%)
+2025-03-30 19:23:01 - 2025-03-30 19:23:01 - Task completed at m5
+2025-03-30 19:23:03 - 2025-03-30 19:23:03 - Assigned task: move to m6
+2025-03-30 19:23:03 - 2025-03-30 19:23:03 - Started moving from m5 to m5 (Battery: 91%)
+2025-03-30 19:23:03 - Robot 1 spawned at m6
+2025-03-30 19:23:03 - 2025-03-30 19:23:03 - Robot 1 spawned at m6
+2025-03-30 19:23:04 - 2025-03-30 19:23:04 - Waiting at m5 due to vertex conflict
+2025-03-30 19:23:06 - 2025-03-30 19:23:06 - Resumed moving after waiting at m5
+2025-03-30 19:23:06 - 2025-03-30 19:23:06 - Waiting at m5 due to vertex conflict
+2025-03-30 19:23:08 - 2025-03-30 19:23:08 - Resumed moving after waiting at m5
+2025-03-30 19:23:09 - 2025-03-30 19:23:09 - Waiting at m5 due to vertex conflict
+2025-03-30 19:23:10 - 2025-03-30 19:23:10 - Assigned task: move to m4
+2025-03-30 19:23:10 - 2025-03-30 19:23:10 - Started moving from m5 to m5 (Battery: 90%)
+2025-03-30 19:23:11 - 2025-03-30 19:23:11 - Started moving from m5 to m4 (Battery: 89%)
+2025-03-30 19:23:12 - 2025-03-30 19:23:12 - Task completed at m4
+2025-03-30 19:23:13 - 2025-03-30 19:23:13 - Assigned task: move to m5
+2025-03-30 19:23:13 - 2025-03-30 19:23:13 - Started moving from m4 to m4 (Battery: 88%)
+2025-03-30 19:23:15 - 2025-03-30 19:23:15 - Started moving from m4 to m5 (Battery: 87%)
+2025-03-30 19:23:16 - 2025-03-30 19:23:16 - Task completed at m5
+2025-03-30 19:23:17 - 2025-03-30 19:23:17 - Assigned task: move to m7
+2025-03-30 19:23:17 - 2025-03-30 19:23:17 - Started moving from m5 to m5 (Battery: 86%)
+2025-03-30 19:23:18 - 2025-03-30 19:23:18 - Found alternative path (attempt 1) to m7
+2025-03-30 19:23:19 - 2025-03-30 19:23:19 - Started moving from m5 to m5 (Battery: 85%)
+2025-03-30 19:23:20 - 2025-03-30 19:23:20 - Started moving from m5 to m4 (Battery: 84%)
+2025-03-30 19:23:21 - 2025-03-30 19:23:21 - Started moving from m4 to m3 (Battery: 83%)
+2025-03-30 19:23:22 - 2025-03-30 19:23:22 - Started moving from m3 to  (Battery: 82%)
+2025-03-30 19:23:23 - 2025-03-30 19:23:23 - Started moving from  to m2 (Battery: 81%)
+2025-03-30 19:23:25 - 2025-03-30 19:23:25 - Started moving from m2 to  (Battery: 80%)
+2025-03-30 19:23:26 - 2025-03-30 19:23:26 - Started moving from  to m1 (Battery: 79%)
+2025-03-30 19:23:27 - 2025-03-30 19:23:27 - Started moving from m1 to m10 (Battery: 78%)
+2025-03-30 19:23:28 - 2025-03-30 19:23:28 - Started moving from m10 to m9 (Battery: 77%)
+2025-03-30 19:23:29 - 2025-03-30 19:23:29 - Started moving from m9 to m8 (Battery: 76%)
+2025-03-30 19:23:31 - 2025-03-30 19:23:31 - Started moving from m8 to  (Battery: 75%)
+2025-03-30 19:23:32 - 2025-03-30 19:23:32 - Started moving from  to m7 (Battery: 74%)
+2025-03-30 19:23:33 - 2025-03-30 19:23:33 - Task completed at m7
+2025-03-30 19:23:37 - 2025-03-30 19:23:37 - Assigned task: move to 
+2025-03-30 19:23:37 - 2025-03-30 19:23:37 - Started moving from m7 to m7 (Battery: 73%)
+2025-03-30 19:23:37 - Robot 2 spawned at 
+2025-03-30 19:23:38 - 2025-03-30 19:23:37 - Robot 2 spawned at 
+2025-03-30 19:23:38 - 2025-03-30 19:23:38 - Waiting at m7 due to vertex conflict
+2025-03-30 19:23:39 - 2025-03-30 19:23:39 - Assigned task: move to m5
+2025-03-30 19:23:39 - 2025-03-30 19:23:39 - Started moving from m7 to m7 (Battery: 72%)
+2025-03-30 19:23:40 - 2025-03-30 19:23:40 - Started moving from m7 to  (Battery: 71%)
+2025-03-30 19:23:41 - 2025-03-30 19:23:41 - Waiting at  due to vertex conflict
+2025-03-30 19:23:44 - 2025-03-30 19:23:44 - Resumed moving after waiting at 
+2025-03-30 19:23:44 - 2025-03-30 19:23:44 - Waiting at  due to vertex conflict
+2025-03-30 19:23:44 - 2025-03-30 19:23:44 - Assigned task: move to m7
+2025-03-30 19:23:44 - 2025-03-30 19:23:44 - Started moving from m6 to m6 (Battery: 99%)
+2025-03-30 19:23:45 - 2025-03-30 19:23:45 - Waiting at m6 due to vertex conflict
+2025-03-30 19:23:46 - 2025-03-30 19:23:46 - Resumed moving after waiting at 
+2025-03-30 19:23:46 - 2025-03-30 19:23:46 - Started moving from  to m6 (Battery: 70%)
+2025-03-30 19:23:47 - 2025-03-30 19:23:47 - Started moving from m6 to m5 (Battery: 69%)
+2025-03-30 19:23:47 - 2025-03-30 19:23:47 - Resumed moving after waiting at m6
+2025-03-30 19:23:47 - 2025-03-30 19:23:47 - Started moving from m6 to  (Battery: 98%)
+2025-03-30 19:23:48 - 2025-03-30 19:23:48 - Task completed at m5
+2025-03-30 19:23:49 - 2025-03-30 19:23:49 - Started moving from  to m7 (Battery: 97%)
+2025-03-30 19:23:50 - 2025-03-30 19:23:50 - Task completed at m7
+2025-03-30 19:23:55 - 2025-03-30 19:23:55 - Assigned task: move to m8
+2025-03-30 19:23:55 - 2025-03-30 19:23:55 - Started moving from m7 to m7 (Battery: 96%)
+2025-03-30 19:23:56 - 2025-03-30 19:23:56 - Waiting at m7 due to vertex conflict
+2025-03-30 19:23:57 - 2025-03-30 19:23:57 - Assigned task: move to m9
+2025-03-30 19:23:57 - 2025-03-30 19:23:57 - Started moving from  to  (Battery: 99%)
+2025-03-30 19:23:58 - 2025-03-30 19:23:58 - Started moving from  to m8 (Battery: 98%)
+2025-03-30 19:23:58 - 2025-03-30 19:23:58 - Resumed moving after waiting at m7
+2025-03-30 19:23:58 - 2025-03-30 19:23:58 - Started moving from m7 to  (Battery: 95%)
+2025-03-30 19:23:59 - 2025-03-30 19:23:59 - Started moving from m8 to m9 (Battery: 97%)
+2025-03-30 19:23:59 - 2025-03-30 19:23:59 - Waiting at  due to vertex conflict
+2025-03-30 19:24:00 - 2025-03-30 19:24:00 - Task completed at m9
+2025-03-30 19:24:01 - 2025-03-30 19:24:01 - Resumed moving after waiting at 
+2025-03-30 19:24:02 - 2025-03-30 19:24:02 - Started moving from  to m8 (Battery: 94%)
+2025-03-30 19:24:03 - 2025-03-30 19:24:03 - Task completed at m8
+2025-03-30 19:24:10 - 2025-03-30 19:24:09 - Assigned task: move to m6
+2025-03-30 19:24:10 - 2025-03-30 19:24:10 - Started moving from m5 to m5 (Battery: 68%)
+2025-03-30 19:24:11 - 2025-03-30 19:24:11 - Started moving from m5 to m6 (Battery: 67%)
+2025-03-30 19:24:12 - 2025-03-30 19:24:12 - Task completed at m6
+2025-03-30 19:24:15 - 2025-03-30 19:24:15 - Battery manually reduced to 17%
+2025-03-30 19:24:15 - 2025-03-30 19:24:15 - Low battery! Redirecting to charger at m7
+2025-03-30 19:24:15 - 2025-03-30 19:24:15 - Started moving from m6 to m6 (Battery: 16%)
+2025-03-30 19:24:16 - 2025-03-30 19:24:16 - Started moving from m6 to  (Battery: 15%)
+2025-03-30 19:24:17 - 2025-03-30 19:24:17 - Started moving from  to m7 (Battery: 14%)
+2025-03-30 19:24:18 - 2025-03-30 19:24:18 - Task completed at m7
+2025-03-30 19:24:21 - 2025-03-30 19:24:21 - Assigned task: move to m6
+2025-03-30 19:24:21 - 2025-03-30 19:24:21 - Low battery! Started charging at m7
+2025-03-30 19:24:25 - 2025-03-30 19:24:25 - Charging complete at m7 (Battery: 96%)
+2025-03-30 19:24:27 - 2025-03-30 19:24:27 - Assigned task: move to m6
+2025-03-30 19:24:27 - 2025-03-30 19:24:27 - Started moving from m7 to m7 (Battery: 95%)
+2025-03-30 19:24:28 - 2025-03-30 19:24:28 - Started moving from m7 to  (Battery: 94%)
+2025-03-30 19:24:29 - 2025-03-30 19:24:29 - Started moving from  to m6 (Battery: 93%)
+2025-03-30 19:24:31 - 2025-03-30 19:24:31 - Task completed at m6
+2025-03-30 19:24:31 - Robot 3 spawned at m7
+2025-03-30 19:24:31 - 2025-03-30 19:24:31 - Robot 3 spawned at m7
+2025-03-30 19:24:33 - 2025-03-30 19:24:33 - Assigned task: move to 
+2025-03-30 19:24:33 - 2025-03-30 19:24:33 - Started moving from m7 to m7 (Battery: 99%)
+2025-03-30 19:24:34 - 2025-03-30 19:24:34 - Started moving from m7 to  (Battery: 98%)
+2025-03-30 19:24:35 - 2025-03-30 19:24:35 - Task completed at 
+2025-03-30 19:24:41 - 2025-03-30 19:24:41 - Battery manually reduced to 13%
+2025-03-30 19:24:41 - 2025-03-30 19:24:41 - Low battery! Redirecting to charger at m2
+2025-03-30 19:24:41 - 2025-03-30 19:24:41 - Started moving from m6 to m6 (Battery: 12%)
+2025-03-30 19:24:42 - 2025-03-30 19:24:42 - Started moving from m6 to m5 (Battery: 11%)
+2025-03-30 19:24:43 - 2025-03-30 19:24:43 - Started moving from m5 to m4 (Battery: 10%)
+2025-03-30 19:24:45 - 2025-03-30 19:24:45 - Started moving from m4 to m3 (Battery: 9%)
+2025-03-30 19:24:46 - 2025-03-30 19:24:46 - Started moving from m3 to  (Battery: 8%)
+2025-03-30 19:24:47 - 2025-03-30 19:24:47 - Started moving from  to m2 (Battery: 7%)
+2025-03-30 19:24:48 - 2025-03-30 19:24:48 - Task completed at m2
+2025-03-30 19:24:54 - 2025-03-30 19:24:54 - Assigned task: move to m7
+2025-03-30 19:24:54 - 2025-03-30 19:24:54 - Low battery! Started charging at m2
+2025-03-30 19:24:59 - 2025-03-30 19:24:59 - Charging complete at m2 (Battery: 95%)
+2025-03-30 19:24:59 - 2025-03-30 19:24:59 - Assigned task: move to m7
+2025-03-30 19:24:59 - 2025-03-30 19:24:59 - Started moving from m2 to m2 (Battery: 94%)
+2025-03-30 19:25:01 - 2025-03-30 19:25:01 - Started moving from m2 to  (Battery: 93%)
+2025-03-30 19:25:02 - 2025-03-30 19:25:02 - Started moving from  to m1 (Battery: 92%)
+2025-03-30 19:25:03 - 2025-03-30 19:25:03 - Started moving from m1 to m10 (Battery: 91%)
+2025-03-30 19:25:04 - 2025-03-30 19:25:04 - Waiting at m10 due to vertex conflict
+2025-03-30 19:25:06 - 2025-03-30 19:25:06 - Resumed moving after waiting at m10
+2025-03-30 19:25:06 - 2025-03-30 19:25:06 - Waiting at m10 due to vertex conflict
+2025-03-30 19:25:07 - 2025-03-30 19:25:07 - Assigned task: move to m2
+2025-03-30 19:25:07 - 2025-03-30 19:25:07 - Started moving from m9 to m9 (Battery: 96%)
+2025-03-30 19:25:08 - 2025-03-30 19:25:08 - Waiting at m9 due to vertex conflict
+2025-03-30 19:25:08 - 2025-03-30 19:25:08 - Resumed moving after waiting at m10
+2025-03-30 19:25:08 - 2025-03-30 19:25:08 - Started moving from m10 to m9 (Battery: 90%)
+2025-03-30 19:25:10 - 2025-03-30 19:25:10 - Waiting at m9 due to vertex conflict
+2025-03-30 19:25:10 - 2025-03-30 19:25:10 - Resumed moving after waiting at m9
+2025-03-30 19:25:10 - 2025-03-30 19:25:10 - Started moving from m9 to m10 (Battery: 95%)
+2025-03-30 19:25:12 - 2025-03-30 19:25:12 - Started moving from m10 to m1 (Battery: 94%)
+2025-03-30 19:25:12 - 2025-03-30 19:25:12 - Resumed moving after waiting at m9
+2025-03-30 19:25:12 - 2025-03-30 19:25:12 - Waiting at m9 due to vertex conflict
+2025-03-30 19:25:13 - 2025-03-30 19:25:13 - Started moving from m1 to  (Battery: 93%)
+2025-03-30 19:25:14 - 2025-03-30 19:25:14 - Resumed moving after waiting at m9
+2025-03-30 19:25:14 - 2025-03-30 19:25:14 - Waiting at m9 due to vertex conflict
+2025-03-30 19:25:14 - 2025-03-30 19:25:14 - Started moving from  to m2 (Battery: 92%)
+2025-03-30 19:25:15 - 2025-03-30 19:25:15 - Task completed at m2
+2025-03-30 19:25:16 - 2025-03-30 19:25:16 - Assigned task: move to m1
+2025-03-30 19:25:16 - 2025-03-30 19:25:16 - Started moving from m8 to m8 (Battery: 93%)
+2025-03-30 19:25:16 - 2025-03-30 19:25:16 - Resumed moving after waiting at m9
+2025-03-30 19:25:16 - 2025-03-30 19:25:16 - Waiting at m9 due to vertex conflict
+2025-03-30 19:25:17 - 2025-03-30 19:25:17 - Waiting at m8 due to vertex conflict
+2025-03-30 19:25:18 - 2025-03-30 19:25:18 - Resumed moving after waiting at m9
+2025-03-30 19:25:18 - 2025-03-30 19:25:18 - Started moving from m9 to m8 (Battery: 89%)
+2025-03-30 19:25:19 - 2025-03-30 19:25:19 - Resumed moving after waiting at m8
+2025-03-30 19:25:19 - 2025-03-30 19:25:19 - Waiting at m8 due to vertex conflict
+2025-03-30 19:25:20 - 2025-03-30 19:25:20 - Started moving from m8 to  (Battery: 88%)
+2025-03-30 19:25:21 - 2025-03-30 19:25:21 - Started moving from  to m7 (Battery: 87%)
+2025-03-30 19:25:21 - 2025-03-30 19:25:21 - Resumed moving after waiting at m8
+2025-03-30 19:25:21 - 2025-03-30 19:25:21 - Started moving from m8 to m9 (Battery: 92%)
+2025-03-30 19:25:22 - 2025-03-30 19:25:22 - Task completed at m7
+2025-03-30 19:25:23 - 2025-03-30 19:25:23 - Started moving from m9 to m10 (Battery: 91%)
+2025-03-30 19:25:24 - 2025-03-30 19:25:24 - Started moving from m10 to m1 (Battery: 90%)
+2025-03-30 19:25:25 - 2025-03-30 19:25:25 - Task completed at m1
+2025-03-30 19:56:52 - Robot 0 spawned at 
+2025-03-30 19:56:52 - 2025-03-30 19:56:52 - Robot 0 spawned at 
+2025-03-30 19:56:54 - 2025-03-30 19:56:54 - Assigned task: move to 
+2025-03-30 19:56:54 - 2025-03-30 19:56:54 - Started moving from  to  (Battery: 99%)
+2025-03-30 19:56:55 - 2025-03-30 19:56:55 - Started moving from  to  (Battery: 98%)
+2025-03-30 19:56:56 - 2025-03-30 19:56:56 - Started moving from  to  (Battery: 97%)
+2025-03-30 19:56:57 - 2025-03-30 19:56:57 - Started moving from  to  (Battery: 96%)
+2025-03-30 19:56:59 - 2025-03-30 19:56:59 - Task completed at 
+2025-03-30 20:01:40 - 2025-03-30 20:01:40 - Assigned task: move to 
+2025-03-30 20:01:40 - 2025-03-30 20:01:40 - Started moving from  to  (Battery: 95%)
+2025-03-30 20:01:41 - 2025-03-30 20:01:41 - Started moving from  to  (Battery: 94%)
+2025-03-30 20:01:42 - 2025-03-30 20:01:42 - Started moving from  to m2 (Battery: 93%)
+2025-03-30 20:01:43 - 2025-03-30 20:01:43 - Started moving from m2 to  (Battery: 92%)
+2025-03-30 20:01:44 - Robot 1 spawned at 
+2025-03-30 20:01:44 - 2025-03-30 20:01:44 - Robot 1 spawned at 
+2025-03-30 20:01:44 - 2025-03-30 20:01:44 - Started moving from  to  (Battery: 91%)
+2025-03-30 20:01:45 - 2025-03-30 20:01:45 - Task completed at 
+2025-03-30 20:01:47 - 2025-03-30 20:01:47 - Assigned task: move to m1
+2025-03-30 20:01:47 - 2025-03-30 20:01:47 - Started moving from  to  (Battery: 90%)
+2025-03-30 20:01:48 - 2025-03-30 20:01:48 - Found alternative path (attempt 1) to m1
+2025-03-30 20:01:48 - 2025-03-30 20:01:48 - Started moving from  to  (Battery: 89%)
+2025-03-30 20:01:49 - 2025-03-30 20:01:49 - Started moving from  to  (Battery: 88%)
+2025-03-30 20:01:51 - 2025-03-30 20:01:51 - Started moving from  to  (Battery: 87%)
+2025-03-30 20:01:52 - 2025-03-30 20:01:52 - Started moving from  to  (Battery: 86%)
+2025-03-30 20:01:53 - 2025-03-30 20:01:53 - Started moving from  to  (Battery: 85%)
+2025-03-30 20:01:54 - 2025-03-30 20:01:54 - Started moving from  to m1 (Battery: 84%)
+2025-03-30 20:01:55 - 2025-03-30 20:01:55 - Task completed at m1
+2025-03-30 20:02:01 - 2025-03-30 20:02:00 - Assigned task: move to 
+2025-03-30 20:02:01 - 2025-03-30 20:02:01 - Started moving from m1 to m1 (Battery: 83%)
+2025-03-30 20:02:01 - Robot 2 spawned at 
+2025-03-30 20:02:01 - 2025-03-30 20:02:01 - Robot 2 spawned at 
+2025-03-30 20:02:02 - 2025-03-30 20:02:02 - Waiting at m1 due to vertex conflict
+2025-03-30 20:02:04 - 2025-03-30 20:02:04 - Resumed moving after waiting at m1
+2025-03-30 20:02:04 - 2025-03-30 20:02:04 - Waiting at m1 due to vertex conflict
+2025-03-30 20:02:06 - 2025-03-30 20:02:06 - Resumed moving after waiting at m1
+2025-03-30 20:02:06 - 2025-03-30 20:02:06 - Waiting at m1 due to vertex conflict
+2025-03-30 20:02:08 - 2025-03-30 20:02:08 - Resumed moving after waiting at m1
+2025-03-30 20:02:08 - 2025-03-30 20:02:08 - Waiting at m1 due to vertex conflict
+2025-03-30 20:02:09 - 2025-03-30 20:02:09 - Assigned task: move to 
+2025-03-30 20:02:09 - 2025-03-30 20:02:09 - Started moving from  to  (Battery: 99%)
+2025-03-30 20:02:10 - 2025-03-30 20:02:10 - Resumed moving after waiting at m1
+2025-03-30 20:02:10 - 2025-03-30 20:02:10 - Waiting at m1 due to vertex conflict
+2025-03-30 20:02:10 - 2025-03-30 20:02:10 - Waiting at  due to vertex conflict
+2025-03-30 20:02:12 - 2025-03-30 20:02:12 - Resumed moving after waiting at m1
+2025-03-30 20:02:12 - 2025-03-30 20:02:12 - Started moving from m1 to  (Battery: 82%)
+2025-03-30 20:02:12 - 2025-03-30 20:02:12 - Resumed moving after waiting at 
+2025-03-30 20:02:13 - 2025-03-30 20:02:13 - Waiting at  due to vertex conflict
+2025-03-30 20:02:13 - 2025-03-30 20:02:13 - Assigned task: move to 
+2025-03-30 20:02:13 - 2025-03-30 20:02:13 - Started moving from  to  (Battery: 99%)
+2025-03-30 20:02:14 - 2025-03-30 20:02:14 - Waiting at  due to vertex conflict
+2025-03-30 20:02:14 - 2025-03-30 20:02:14 - Started moving from  to  (Battery: 98%)
+2025-03-30 20:02:15 - 2025-03-30 20:02:15 - Resumed moving after waiting at 
+2025-03-30 20:02:15 - 2025-03-30 20:02:15 - Started moving from  to  (Battery: 98%)
+2025-03-30 20:02:15 - 2025-03-30 20:02:15 - Task completed at 
+2025-03-30 20:02:16 - 2025-03-30 20:02:16 - Resumed moving after waiting at 
+2025-03-30 20:02:16 - 2025-03-30 20:02:16 - Waiting at  due to vertex conflict
+2025-03-30 20:02:16 - 2025-03-30 20:02:16 - Waiting at  due to vertex conflict
+2025-03-30 20:02:18 - 2025-03-30 20:02:18 - Resumed moving after waiting at 
+2025-03-30 20:02:18 - 2025-03-30 20:02:18 - Waiting at  due to vertex conflict
+2025-03-30 20:02:18 - 2025-03-30 20:02:18 - Resumed moving after waiting at 
+2025-03-30 20:02:18 - 2025-03-30 20:02:18 - Waiting at  due to vertex conflict
+2025-03-30 20:02:20 - 2025-03-30 20:02:20 - Resumed moving after waiting at 
+2025-03-30 20:02:20 - 2025-03-30 20:02:20 - Waiting at  due to vertex conflict
+2025-03-30 20:02:20 - 2025-03-30 20:02:20 - Resumed moving after waiting at 
+2025-03-30 20:02:20 - 2025-03-30 20:02:20 - Waiting at  due to vertex conflict
+2025-03-30 20:02:22 - 2025-03-30 20:02:22 - Assigned task: move to 
+2025-03-30 20:02:22 - 2025-03-30 20:02:22 - Started moving from  to  (Battery: 97%)
+2025-03-30 20:02:22 - 2025-03-30 20:02:22 - Resumed moving after waiting at 
+2025-03-30 20:02:22 - 2025-03-30 20:02:22 - Waiting at  due to vertex conflict
+2025-03-30 20:02:23 - 2025-03-30 20:02:23 - Started moving from  to  (Battery: 96%)
+2025-03-30 20:02:24 - 2025-03-30 20:02:24 - Assigned task: move to m1
+2025-03-30 20:02:24 - 2025-03-30 20:02:24 - Started moving from  to  (Battery: 81%)
+2025-03-30 20:02:24 - 2025-03-30 20:02:24 - Task completed at 
+2025-03-30 20:02:25 - 2025-03-30 20:02:25 - Started moving from  to m1 (Battery: 80%)
+2025-03-30 20:02:26 - 2025-03-30 20:02:26 - Task completed at m1
+2025-03-30 20:02:28 - 2025-03-30 20:02:28 - Assigned task: move to 
+2025-03-30 20:02:28 - 2025-03-30 20:02:28 - Started moving from  to  (Battery: 95%)
+2025-03-30 20:02:29 - 2025-03-30 20:02:29 - Started moving from  to  (Battery: 94%)
+2025-03-30 20:02:30 - 2025-03-30 20:02:30 - Started moving from  to  (Battery: 93%)
+2025-03-30 20:02:31 - 2025-03-30 20:02:31 - Task completed at 
+2025-03-30 20:02:34 - 2025-03-30 20:02:34 - Assigned task: move to 
+2025-03-30 20:02:34 - 2025-03-30 20:02:34 - Started moving from m1 to m1 (Battery: 79%)
+2025-03-30 20:02:36 - 2025-03-30 20:02:36 - Found alternative path (attempt 1) to 
+2025-03-30 20:02:36 - 2025-03-30 20:02:36 - Started moving from m1 to m1 (Battery: 78%)
+2025-03-30 20:02:36 - 2025-03-30 20:02:36 - Assigned task: move to 
+2025-03-30 20:02:36 - 2025-03-30 20:02:36 - Started moving from  to  (Battery: 97%)
+2025-03-30 20:02:37 - 2025-03-30 20:02:37 - Started moving from m1 to  (Battery: 77%)
+2025-03-30 20:02:38 - 2025-03-30 20:02:38 - Started moving from  to  (Battery: 96%)
+2025-03-30 20:02:38 - 2025-03-30 20:02:38 - Started moving from  to  (Battery: 76%)
+2025-03-30 20:02:39 - 2025-03-30 20:02:39 - Started moving from  to  (Battery: 95%)
+2025-03-30 20:02:39 - 2025-03-30 20:02:39 - Started moving from  to  (Battery: 75%)
+2025-03-30 20:02:40 - 2025-03-30 20:02:40 - Waiting at  due to vertex conflict
+2025-03-30 20:02:40 - 2025-03-30 20:02:40 - Waiting at  due to vertex conflict
+2025-03-30 20:02:42 - 2025-03-30 20:02:42 - Resumed moving after waiting at 
+2025-03-30 20:02:42 - 2025-03-30 20:02:42 - Waiting at  due to vertex conflict
+2025-03-30 20:02:42 - 2025-03-30 20:02:42 - Resumed moving after waiting at 
+2025-03-30 20:02:43 - 2025-03-30 20:02:43 - Waiting at  due to vertex conflict
+2025-03-30 20:02:44 - 2025-03-30 20:02:44 - Resumed moving after waiting at 
+2025-03-30 20:02:44 - 2025-03-30 20:02:44 - Waiting at  due to vertex conflict
+2025-03-30 20:02:45 - 2025-03-30 20:02:45 - Resumed moving after waiting at 
+2025-03-30 20:02:45 - 2025-03-30 20:02:45 - Waiting at  due to vertex conflict
+2025-03-30 20:02:46 - 2025-03-30 20:02:46 - Assigned task: move to 
+2025-03-30 20:02:46 - 2025-03-30 20:02:46 - Started moving from  to  (Battery: 94%)
+2025-03-30 20:02:47 - 2025-03-30 20:02:47 - Resumed moving after waiting at 
+2025-03-30 20:02:47 - 2025-03-30 20:02:47 - Waiting at  due to vertex conflict
+2025-03-30 20:02:47 - 2025-03-30 20:02:47 - Waiting at  due to vertex conflict
+2025-03-30 20:02:49 - 2025-03-30 20:02:49 - Resumed moving after waiting at 
+2025-03-30 20:02:49 - 2025-03-30 20:02:49 - Started moving from  to  (Battery: 74%)
+2025-03-30 20:02:49 - 2025-03-30 20:02:49 - Resumed moving after waiting at 
+2025-03-30 20:02:49 - 2025-03-30 20:02:49 - Waiting at  due to vertex conflict
+2025-03-30 20:02:50 - 2025-03-30 20:02:50 - Task completed at 
+2025-03-30 20:02:52 - 2025-03-30 20:02:52 - Resumed moving after waiting at 
+2025-03-30 20:02:52 - 2025-03-30 20:02:52 - Started moving from  to  (Battery: 93%)
+2025-03-30 20:02:53 - 2025-03-30 20:02:53 - Started moving from  to  (Battery: 92%)
+2025-03-30 20:02:54 - 2025-03-30 20:02:54 - Task completed at 
+2025-03-30 20:03:02 - Robot 0 spawned at p1
+2025-03-30 20:03:02 - 2025-03-30 20:03:02 - Robot 0 spawned at p1
+2025-03-30 20:03:06 - 2025-03-30 20:03:06 - Assigned task: move to 
+2025-03-30 20:03:06 - 2025-03-30 20:03:06 - Started moving from p1 to p1 (Battery: 99%)
+2025-03-30 20:03:06 - Robot 1 spawned at 
+2025-03-30 20:03:06 - 2025-03-30 20:03:06 - Robot 1 spawned at 
+2025-03-30 20:03:07 - 2025-03-30 20:03:07 - Started moving from p1 to p3 (Battery: 98%)
+2025-03-30 20:03:07 - Robot 2 spawned at p1
+2025-03-30 20:03:07 - 2025-03-30 20:03:07 - Robot 2 spawned at p1
+2025-03-30 20:03:08 - 2025-03-30 20:03:08 - Waiting at p3 due to vertex conflict
+2025-03-30 20:03:10 - 2025-03-30 20:03:10 - Resumed moving after waiting at p3
+2025-03-30 20:03:10 - 2025-03-30 20:03:10 - Waiting at p3 due to vertex conflict
+2025-03-30 20:03:11 - 2025-03-30 20:03:11 - Assigned task: move to p2
+2025-03-30 20:03:11 - 2025-03-30 20:03:11 - Started moving from p3 to p3 (Battery: 97%)
+2025-03-30 20:03:12 - 2025-03-30 20:03:12 - Waiting at p3 due to vertex conflict
+2025-03-30 20:03:14 - 2025-03-30 20:03:14 - Resumed moving after waiting at p3
+2025-03-30 20:03:14 - 2025-03-30 20:03:14 - Waiting at p3 due to vertex conflict
+2025-03-30 20:03:15 - 2025-03-30 20:03:15 - Assigned task: move to p5
+2025-03-30 20:03:15 - 2025-03-30 20:03:15 - Started moving from p1 to p1 (Battery: 99%)
+2025-03-30 20:03:16 - 2025-03-30 20:03:16 - Started moving from p1 to p2 (Battery: 98%)
+2025-03-30 20:03:16 - 2025-03-30 20:03:16 - Resumed moving after waiting at p3
+2025-03-30 20:03:17 - 2025-03-30 20:03:17 - Started moving from p3 to p1 (Battery: 96%)
+2025-03-30 20:03:17 - 2025-03-30 20:03:17 - Started moving from p2 to p5 (Battery: 97%)
+2025-03-30 20:03:18 - 2025-03-30 20:03:18 - Waiting at p1 due to vertex conflict
+2025-03-30 20:03:18 - 2025-03-30 20:03:18 - Task completed at p5
+2025-03-30 20:03:20 - 2025-03-30 20:03:20 - Resumed moving after waiting at p1
+2025-03-30 20:03:20 - 2025-03-30 20:03:20 - Started moving from p1 to p2 (Battery: 95%)
+2025-03-30 20:03:21 - 2025-03-30 20:03:21 - Task completed at p2
+2025-03-30 20:03:25 - 2025-03-30 20:03:25 - Battery manually reduced to 15%
+2025-03-30 20:03:25 - 2025-03-30 20:03:25 - Critical battery! No charger available (Battery: 15%)
+2025-03-30 20:03:31 - 2025-03-30 20:03:31 - Assigned task: move to p3
+2025-03-30 20:03:31 - 2025-03-30 20:03:31 - Started moving from p5 to p5 (Battery: 96%)
+2025-03-30 20:03:33 - 2025-03-30 20:03:33 - Waiting at p5 due to vertex conflict
+2025-03-30 20:03:35 - 2025-03-30 20:03:35 - Resumed moving after waiting at p5
+2025-03-30 20:03:35 - 2025-03-30 20:03:35 - Waiting at p5 due to vertex conflict
+2025-03-30 20:03:35 - 2025-03-30 20:03:35 - Assigned task: move to p1
+2025-03-30 20:03:35 - 2025-03-30 20:03:35 - Started moving from  to  (Battery: 99%)
+2025-03-30 20:03:37 - 2025-03-30 20:03:37 - Started moving from  to p3 (Battery: 98%)
+2025-03-30 20:03:37 - 2025-03-30 20:03:37 - Resumed moving after waiting at p5
+2025-03-30 20:03:37 - 2025-03-30 20:03:37 - Started moving from p5 to  (Battery: 95%)
+2025-03-30 20:03:38 - 2025-03-30 20:03:38 - Started moving from p3 to p1 (Battery: 97%)
+2025-03-30 20:03:38 - 2025-03-30 20:03:38 - Waiting at  due to vertex conflict
+2025-03-30 20:03:39 - 2025-03-30 20:03:39 - Task completed at p1
+2025-03-30 20:03:40 - 2025-03-30 20:03:40 - Resumed moving after waiting at 
+2025-03-30 20:03:40 - 2025-03-30 20:03:40 - Started moving from  to p3 (Battery: 94%)
+2025-03-30 20:03:41 - 2025-03-30 20:03:41 - Task completed at p3
+2025-03-30 20:03:44 - 2025-03-30 20:03:44 - Assigned task: move to 
+2025-03-30 20:03:44 - 2025-03-30 20:03:44 - Low battery! Redirecting to charger at home
+2025-03-30 20:03:44 - 2025-03-30 20:03:44 - Started moving from p2 to p2 (Battery: 14%)
+2025-03-30 20:03:45 - 2025-03-30 20:03:45 - Started moving from p2 to p5 (Battery: 13%)
+2025-03-30 20:03:46 - 2025-03-30 20:03:46 - Started moving from p5 to  (Battery: 12%)
+2025-03-30 20:03:48 - 2025-03-30 20:03:48 - Started moving from  to  (Battery: 11%)
+2025-03-30 20:03:49 - 2025-03-30 20:03:49 - Started moving from  to home (Battery: 10%)
+2025-03-30 20:03:50 - 2025-03-30 20:03:50 - Task completed at home
+2025-03-30 20:03:52 - 2025-03-30 20:03:52 - Assigned task: move to p5
+2025-03-30 20:03:52 - 2025-03-30 20:03:52 - Low battery! Started charging at home
+2025-03-30 20:03:57 - 2025-03-30 20:03:57 - Charging complete at home (Battery: 96%)
+2025-03-30 20:04:03 - 2025-03-30 20:04:03 - Assigned task: move to p2
+2025-03-30 20:04:03 - 2025-03-30 20:04:03 - Started moving from home to home (Battery: 95%)
+2025-03-30 20:04:04 - 2025-03-30 20:04:04 - Started moving from home to  (Battery: 94%)
+2025-03-30 20:04:05 - 2025-03-30 20:04:05 - Started moving from  to  (Battery: 93%)
+2025-03-30 20:04:07 - 2025-03-30 20:04:07 - Started moving from  to p5 (Battery: 92%)
+2025-03-30 20:04:08 - 2025-03-30 20:04:08 - Started moving from p5 to p2 (Battery: 91%)
+2025-03-30 20:04:09 - 2025-03-30 20:04:09 - Assigned task: move to 
+2025-03-30 20:04:09 - 2025-03-30 20:04:09 - Started moving from p3 to p3 (Battery: 93%)
+2025-03-30 20:04:09 - 2025-03-30 20:04:09 - Task completed at p2
+2025-03-30 20:04:10 - 2025-03-30 20:04:10 - Started moving from p3 to  (Battery: 92%)
+2025-03-30 20:04:11 - 2025-03-30 20:04:11 - Task completed at 
+2025-03-30 20:04:17 - 2025-03-30 20:04:17 - Battery manually reduced to 11%
+2025-03-30 20:04:17 - 2025-03-30 20:04:17 - Critical battery! No charger available (Battery: 11%)
+2025-03-30 20:04:24 - 2025-03-30 20:04:24 - Assigned task: move to p3
+2025-03-30 20:04:24 - 2025-03-30 20:04:24 - Started moving from  to  (Battery: 91%)
+2025-03-30 20:04:25 - 2025-03-30 20:04:25 - Started moving from  to p3 (Battery: 90%)
+2025-03-30 20:04:27 - 2025-03-30 20:04:27 - Task completed at p3
+2025-03-30 20:04:30 - 2025-03-30 20:04:30 - Assigned task: move to p5
+2025-03-30 20:04:30 - 2025-03-30 20:04:30 - Low battery! Redirecting to charger at home
+2025-03-30 20:04:30 - 2025-03-30 20:04:30 - Started moving from p2 to p2 (Battery: 10%)
+2025-03-30 20:04:31 - 2025-03-30 20:04:31 - Started moving from p2 to p5 (Battery: 9%)
+2025-03-30 20:04:33 - 2025-03-30 20:04:33 - Started moving from p5 to  (Battery: 8%)
+2025-03-30 20:04:34 - 2025-03-30 20:04:34 - Started moving from  to  (Battery: 7%)
+2025-03-30 20:04:35 - 2025-03-30 20:04:35 - Started moving from  to home (Battery: 6%)
+2025-03-30 20:04:36 - 2025-03-30 20:04:36 - Task completed at home
+2025-03-30 20:04:38 - 2025-03-30 20:04:38 - Assigned task: move to p2
+2025-03-30 20:04:38 - 2025-03-30 20:04:38 - Low battery! Started charging at home
+2025-03-30 20:04:43 - 2025-03-30 20:04:43 - Charging complete at home (Battery: 96%)
+2025-03-30 20:17:59 - Robot 0 spawned at m4
+2025-03-30 20:17:59 - 2025-03-30 20:17:59 - Robot 0 spawned at m4
+2025-03-30 20:18:00 - 2025-03-30 20:18:00 - Assigned task: move to m6
+2025-03-30 20:18:00 - 2025-03-30 20:18:00 - Started moving from m4 to m4 (Battery: 99%)
+2025-03-30 20:18:02 - 2025-03-30 20:18:02 - Started moving from m4 to m5 (Battery: 98%)
+2025-03-30 20:18:03 - 2025-03-30 20:18:03 - Started moving from m5 to m6 (Battery: 97%)
+2025-03-30 20:18:04 - 2025-03-30 20:18:04 - Task completed at m6
+2025-03-30 20:18:09 - 2025-03-30 20:18:09 - Battery manually reduced to 17%
+2025-03-30 20:18:09 - 2025-03-30 20:18:09 - Low battery! Redirecting to charger at m7
+2025-03-30 20:18:09 - 2025-03-30 20:18:09 - Started moving from m6 to m6 (Battery: 16%)
+2025-03-30 20:18:10 - 2025-03-30 20:18:10 - Started moving from m6 to  (Battery: 15%)
+2025-03-30 20:18:12 - 2025-03-30 20:18:12 - Started moving from  to m7 (Battery: 14%)
+2025-03-30 20:18:13 - 2025-03-30 20:18:13 - Task completed at m7
+2025-03-30 20:18:15 - 2025-03-30 20:18:15 - Assigned task: move to 
+2025-03-30 20:18:15 - 2025-03-30 20:18:15 - Low battery! Started charging at m7
+2025-03-30 20:18:19 - 2025-03-30 20:18:19 - Charging complete at m7 (Battery: 96%)
+2025-03-30 20:18:24 - 2025-03-30 20:18:24 - Assigned task: move to 
+2025-03-30 20:18:24 - 2025-03-30 20:18:24 - Started moving from m7 to m7 (Battery: 95%)
+2025-03-30 20:18:25 - 2025-03-30 20:18:25 - Started moving from m7 to  (Battery: 94%)
+2025-03-30 20:18:26 - 2025-03-30 20:18:26 - Task completed at 
+2025-03-30 20:18:26 - Robot 1 spawned at m6
+2025-03-30 20:18:26 - 2025-03-30 20:18:26 - Robot 1 spawned at m6
+2025-03-30 20:18:28 - 2025-03-30 20:18:28 - Assigned task: move to m5
+2025-03-30 20:18:28 - 2025-03-30 20:18:28 - Started moving from  to  (Battery: 93%)
+2025-03-30 20:18:29 - 2025-03-30 20:18:29 - Found alternative path (attempt 1) to m5
+2025-03-30 20:18:29 - 2025-03-30 20:18:29 - Started moving from  to  (Battery: 92%)
+2025-03-30 20:18:30 - 2025-03-30 20:18:30 - Started moving from  to m7 (Battery: 91%)
+2025-03-30 20:18:32 - 2025-03-30 20:18:32 - Started moving from m7 to  (Battery: 90%)
+2025-03-30 20:18:33 - 2025-03-30 20:18:33 - Started moving from  to m8 (Battery: 89%)
+2025-03-30 20:18:34 - 2025-03-30 20:18:34 - Started moving from m8 to m9 (Battery: 88%)
+2025-03-30 20:18:35 - 2025-03-30 20:18:35 - Started moving from m9 to m10 (Battery: 87%)
+2025-03-30 21:15:53 - Robot 0 spawned at m6
+2025-03-30 21:15:53 - 2025-03-30 21:15:53 - Robot 0 spawned at m6
+2025-03-30 21:15:54 - 2025-03-30 21:15:54 - Assigned task: move to m7
+2025-03-30 21:15:54 - 2025-03-30 21:15:54 - Started moving from m6 to m6 (Battery: 99%)
+2025-03-30 21:15:56 - 2025-03-30 21:15:56 - Started moving from m6 to  (Battery: 98%)
+2025-03-30 21:15:57 - 2025-03-30 21:15:57 - Started moving from  to m7 (Battery: 97%)
+2025-03-30 21:15:58 - 2025-03-30 21:15:58 - Task completed at m7
+2025-03-30 21:15:59 - 2025-03-30 21:15:59 - Assigned task: move to m9
+2025-03-30 21:15:59 - 2025-03-30 21:15:59 - Started moving from m7 to m7 (Battery: 96%)
+2025-03-30 21:16:01 - 2025-03-30 21:16:01 - Started moving from m7 to  (Battery: 95%)
+2025-03-30 21:16:02 - 2025-03-30 21:16:02 - Started moving from  to m8 (Battery: 94%)
+2025-03-30 21:16:03 - 2025-03-30 21:16:03 - Started moving from m8 to m9 (Battery: 93%)
+2025-03-30 21:16:04 - 2025-03-30 21:16:04 - Task completed at m9
+2025-03-30 21:16:06 - 2025-03-30 21:16:06 - Assigned task: move to m5
+2025-03-30 21:16:06 - 2025-03-30 21:16:06 - Started moving from m9 to m9 (Battery: 92%)
+2025-03-30 21:16:08 - 2025-03-30 21:16:08 - Started moving from m9 to m8 (Battery: 91%)
+2025-03-30 21:16:09 - 2025-03-30 21:16:09 - Started moving from m8 to  (Battery: 90%)
+2025-03-30 21:16:10 - 2025-03-30 21:16:10 - Started moving from  to m7 (Battery: 89%)
+2025-03-30 21:16:11 - 2025-03-30 21:16:11 - Started moving from m7 to  (Battery: 88%)
+2025-03-30 21:16:12 - 2025-03-30 21:16:12 - Started moving from  to m6 (Battery: 87%)
+2025-03-30 21:16:14 - 2025-03-30 21:16:14 - Started moving from m6 to m5 (Battery: 86%)
+2025-03-30 21:16:15 - 2025-03-30 21:16:15 - Task completed at m5
+2025-03-30 21:16:16 - Robot 1 spawned at m4
+2025-03-30 21:16:16 - 2025-03-30 21:16:16 - Robot 1 spawned at m4
+2025-03-30 21:16:22 - 2025-03-30 21:16:22 - Assigned task: move to m6
+2025-03-30 21:16:22 - 2025-03-30 21:16:22 - Started moving from m4 to m4 (Battery: 99%)
+2025-03-30 21:16:23 - 2025-03-30 21:16:23 - Found alternative path (attempt 1) to m6
+2025-03-30 21:16:24 - 2025-03-30 21:16:24 - Started moving from m4 to m4 (Battery: 98%)
+2025-03-30 21:16:24 - 2025-03-30 21:16:24 - Assigned task: move to m3
+2025-03-30 21:16:24 - 2025-03-30 21:16:24 - Started moving from m5 to m5 (Battery: 85%)
+2025-03-30 21:16:25 - 2025-03-30 21:16:25 - Started moving from m4 to m3 (Battery: 97%)
+2025-03-30 21:16:26 - 2025-03-30 21:16:26 - Started moving from m5 to m4 (Battery: 84%)
+2025-03-30 21:16:26 - 2025-03-30 21:16:26 - Started moving from m3 to  (Battery: 96%)
+2025-03-30 21:16:27 - 2025-03-30 21:16:27 - Waiting at m4 due to vertex conflict
+2025-03-30 21:16:27 - 2025-03-30 21:16:27 - Started moving from  to m2 (Battery: 95%)
+2025-03-30 21:16:28 - 2025-03-30 21:16:28 - Started moving from m2 to  (Battery: 94%)
+2025-03-30 21:16:29 - 2025-03-30 21:16:29 - Resumed moving after waiting at m4
+2025-03-30 21:16:29 - 2025-03-30 21:16:29 - Started moving from m4 to m3 (Battery: 83%)
+2025-03-30 21:16:29 - 2025-03-30 21:16:29 - Started moving from  to m1 (Battery: 93%)
+2025-03-30 21:16:30 - 2025-03-30 21:16:30 - Task completed at m3
+2025-03-30 21:16:31 - 2025-03-30 21:16:31 - Started moving from m1 to m10 (Battery: 92%)
+2025-03-30 21:16:32 - 2025-03-30 21:16:32 - Started moving from m10 to m9 (Battery: 91%)
+2025-03-30 21:16:33 - 2025-03-30 21:16:33 - Started moving from m9 to m8 (Battery: 90%)
+2025-03-30 21:16:34 - Robot 2 spawned at m8
+2025-03-30 21:16:34 - 2025-03-30 21:16:34 - Waiting at m9 due to vertex conflict
+2025-03-30 21:16:34 - 2025-03-30 21:16:34 - Robot 2 spawned at m8
+2025-03-30 21:16:36 - 2025-03-30 21:16:36 - Resumed moving after waiting at m9
+2025-03-30 21:16:36 - 2025-03-30 21:16:36 - Waiting at m9 due to vertex conflict
+2025-03-30 21:16:36 - 2025-03-30 21:16:36 - Assigned task: move to m10
+2025-03-30 21:16:36 - 2025-03-30 21:16:36 - Started moving from m8 to m8 (Battery: 99%)
+2025-03-30 21:16:37 - 2025-03-30 21:16:37 - Waiting at m8 due to vertex conflict
+2025-03-30 21:16:38 - 2025-03-30 21:16:38 - Resumed moving after waiting at m9
+2025-03-30 21:16:39 - 2025-03-30 21:16:39 - Started moving from m8 to  (Battery: 89%)
+2025-03-30 21:16:40 - 2025-03-30 21:16:40 - Resumed moving after waiting at m8
+2025-03-30 21:16:40 - 2025-03-30 21:16:40 - Started moving from m8 to m9 (Battery: 98%)
+2025-03-30 21:16:40 - 2025-03-30 21:16:40 - Started moving from  to m7 (Battery: 88%)
+2025-03-30 21:16:41 - 2025-03-30 21:16:41 - Started moving from m9 to m10 (Battery: 97%)
+2025-03-30 21:16:41 - 2025-03-30 21:16:41 - Started moving from m7 to  (Battery: 87%)
+2025-03-30 21:16:42 - 2025-03-30 21:16:42 - Task completed at m10
+2025-03-30 21:16:42 - 2025-03-30 21:16:42 - Started moving from  to m6 (Battery: 86%)
+2025-03-30 21:16:43 - 2025-03-30 21:16:43 - Task completed at m6
+2025-03-30 21:16:45 - Robot 3 spawned at m5
+2025-03-30 21:16:45 - 2025-03-30 21:16:45 - Robot 3 spawned at m5
+2025-03-30 21:16:50 - 2025-03-30 21:16:50 - Assigned task: move to 
+2025-03-30 21:16:50 - 2025-03-30 21:16:50 - Started moving from m3 to m3 (Battery: 82%)
+2025-03-30 21:16:51 - 2025-03-30 21:16:51 - Started moving from m3 to  (Battery: 81%)
+2025-03-30 21:16:52 - 2025-03-30 21:16:52 - Started moving from  to m2 (Battery: 80%)
+2025-03-30 21:16:53 - 2025-03-30 21:16:53 - Started moving from m2 to  (Battery: 79%)
+2025-03-30 21:16:55 - 2025-03-30 21:16:55 - Task completed at 
+2025-03-30 21:16:55 - 2025-03-30 21:16:55 - Assigned task: move to 
+2025-03-30 21:16:55 - 2025-03-30 21:16:55 - Started moving from m6 to m6 (Battery: 85%)
+2025-03-30 21:16:56 - 2025-03-30 21:16:56 - Started moving from m6 to  (Battery: 84%)
+2025-03-30 21:16:57 - 2025-03-30 21:16:57 - Assigned task: move to m6
+2025-03-30 21:16:57 - 2025-03-30 21:16:57 - Started moving from m5 to m5 (Battery: 99%)
+2025-03-30 21:16:57 - 2025-03-30 21:16:57 - Task completed at 
+2025-03-30 21:16:58 - 2025-03-30 21:16:58 - Started moving from m5 to m6 (Battery: 98%)
+2025-03-30 21:16:59 - 2025-03-30 21:16:59 - Task completed at m6
+2025-03-30 21:17:03 - 2025-03-30 21:17:03 - Battery manually reduced to 18%
+2025-03-30 21:17:03 - 2025-03-30 21:17:03 - Low battery! Redirecting to charger at m2
+2025-03-30 21:17:03 - 2025-03-30 21:17:03 - Started moving from m6 to m6 (Battery: 17%)
+2025-03-30 21:17:04 - 2025-03-30 21:17:04 - Started moving from m6 to m5 (Battery: 16%)
+2025-03-30 21:17:06 - 2025-03-30 21:17:06 - Assigned task: move to 
+2025-03-30 21:17:06 - 2025-03-30 21:17:06 - Started moving from  to  (Battery: 78%)
+2025-03-30 21:17:06 - 2025-03-30 21:17:06 - Started moving from m5 to m4 (Battery: 15%)
+2025-03-30 21:17:07 - 2025-03-30 21:17:07 - Started moving from  to m2 (Battery: 77%)
+2025-03-30 21:17:07 - 2025-03-30 21:17:07 - Started moving from m4 to m3 (Battery: 14%)
+2025-03-30 21:17:08 - 2025-03-30 21:17:08 - Started moving from m2 to  (Battery: 76%)
+2025-03-30 21:17:08 - 2025-03-30 21:17:08 - Waiting at m3 due to vertex conflict
+2025-03-30 21:17:09 - 2025-03-30 21:17:09 - Task completed at 
+2025-03-30 21:17:10 - 2025-03-30 21:17:10 - Resumed moving after waiting at m3
+2025-03-30 21:17:10 - 2025-03-30 21:17:10 - Waiting at m3 due to vertex conflict
+2025-03-30 21:17:11 - 2025-03-30 21:17:11 - Assigned task: move to m4
+2025-03-30 21:17:11 - 2025-03-30 21:17:11 - Started moving from  to  (Battery: 75%)
+2025-03-30 21:17:12 - 2025-03-30 21:17:12 - Waiting at  due to vertex conflict
+2025-03-30 21:17:12 - 2025-03-30 21:17:12 - Resumed moving after waiting at m3
+2025-03-30 21:17:12 - 2025-03-30 21:17:12 - Started moving from m3 to  (Battery: 13%)
+2025-03-30 21:17:14 - 2025-03-30 21:17:14 - Started moving from  to m2 (Battery: 12%)
+2025-03-30 21:17:14 - 2025-03-30 21:17:14 - Resumed moving after waiting at 
+2025-03-30 21:17:14 - 2025-03-30 21:17:14 - Started moving from  to m3 (Battery: 74%)
+2025-03-30 21:17:15 - 2025-03-30 21:17:15 - Task completed at m2
+2025-03-30 21:17:16 - 2025-03-30 21:17:16 - Started moving from m3 to m4 (Battery: 73%)
+2025-03-30 21:17:17 - 2025-03-30 21:17:17 - Task completed at m4
+2025-03-30 21:17:18 - 2025-03-30 21:17:18 - Assigned task: move to 
+2025-03-30 21:17:18 - 2025-03-30 21:17:18 - Low battery! Started charging at m2
+2025-03-30 21:17:23 - 2025-03-30 21:17:23 - Charging complete at m2 (Battery: 96%)
+2025-03-30 21:18:02 - Robot 0 spawned at p5
+2025-03-30 21:18:02 - 2025-03-30 21:18:02 - Robot 0 spawned at p5
+2025-03-30 21:18:03 - Robot 1 spawned at 
+2025-03-30 21:18:03 - 2025-03-30 21:18:03 - Robot 1 spawned at 
+2025-03-30 21:18:04 - Robot 2 spawned at p3
+2025-03-30 21:18:04 - 2025-03-30 21:18:04 - Robot 2 spawned at p3
+2025-03-30 21:18:05 - Robot 3 spawned at p1
+2025-03-30 21:18:05 - 2025-03-30 21:18:05 - Robot 3 spawned at p1
+2025-03-30 21:18:06 - Robot 4 spawned at p2
+2025-03-30 21:18:06 - 2025-03-30 21:18:06 - Robot 4 spawned at p2
+2025-03-30 21:18:07 - Robot 5 spawned at 
+2025-03-30 21:18:07 - 2025-03-30 21:18:07 - Robot 5 spawned at 
+2025-03-30 21:18:08 - Robot 6 spawned at home
+2025-03-30 21:18:08 - 2025-03-30 21:18:08 - Robot 6 spawned at home
