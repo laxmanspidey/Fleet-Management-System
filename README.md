@@ -13,9 +13,9 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 
 ## ✨ Features
 - **3 Distinct Levels** with progressive difficulty
-  - 🟢 Training Grounds (Beginner)
-  - 🟡 Distribution Hub (Intermediate)
-  - 🔴 Megawarehouse (Advanced)
+  - 🟢 Level 1: Basic Warehouse, Small network with 14 locations, 2 charging stations
+  - 🟡 Level 2: Medium Facility, Medium network with 14 locations, 1 charging station 
+  - 🔴 Level 3: Large Distribution Center, Medium network with 7 locations, 1 charging station 
 - **Interactive GUI** with intuitive controls
 - **Smart Robot Behaviors**:
   - Pathfinding with obstacle avoidance
