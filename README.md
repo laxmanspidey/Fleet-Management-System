@@ -9,6 +9,8 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 - Dynamic task assignment
 - Battery management with charging stations
 
+<img src="./images/dbms-4.jpeg" width=700><br>
+
 ## ✨ Features
 - **3 Distinct Levels** with progressive difficulty
   - 🟢 Training Grounds (Beginner)
