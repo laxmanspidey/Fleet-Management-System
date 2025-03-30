@@ -1,6 +1,6 @@
 # Fleet Management System with Multi-Robot Traffic Negotiation
 
-![System Demo](demo.gif) <!-- Add a demo gif if available -->
+<img src="./images/Fleet Management System 30-03-2025 21_53_35.png" width=700><br>
 
 ## 🚀 Overview
 A Python-based simulation system for managing multiple autonomous robots navigating through warehouse environments with:
