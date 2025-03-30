@@ -50,56 +50,56 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 
 ## Completed Features in Hackathon:
 ### 1. Visual Representation
-✓ Environment Visualization:
+#### ✓ Environment Visualization:
 
 Displayed all vertices (locations) and lanes clearly.
 Marked locations with names and intersections.
 Made vertices interactable (clickable) for spawning robots or assigning tasks.
 
-✓ Robot Visualization:
+#### ✓ Robot Visualization:
 
   Used distinct colors/icons for robots.
   Implemented real-time movement visualization along lanes.
   Displayed robot statuses (moving, waiting, charging, task complete).
 
 ### 2. Robot Spawning
-✓ Interactive GUI:
+#### ✓ Interactive GUI:
 
 Enabled dynamic robot spawning by clicking vertices.
 Assigned and displayed unique identifiers for each robot.
 
 ### 3. Navigation Task Assignment
-✓ Interactive Task Assignment:
+#### ✓ Interactive Task Assignment:
 
 Allowed robot selection and destination assignment via clicks.
 Robots started navigation immediately after task assignment.
 
 ### 4. Traffic Negotiation & Collision Avoidance
-✓ Real-Time Traffic Management:
+#### ✓ Real-Time Traffic Management:
 
 Implemented lane/intersection queuing to avoid collisions.
 Visualized waiting status (e.g., color changes, icons).
 
 ### 5. Dynamic Interaction
-✓ Runtime Flexibility:
+#### ✓ Runtime Flexibility:
 
 Supported real-time robot spawning/task assignment without interrupting active robots.
 
 ### 6. Occupancy and Conflict Notifications
-✓ User Alerts:
+#### ✓ User Alerts:
 
 Provided visual notifications for blocked paths/vertices.
 
 ### 7. Logging & Monitoring
-✓ Detailed Logging:
+#### ✓ Detailed Logging:
 
 Logged robot actions, paths, and statuses in fleet_logs.txt.
 
 
 ### Bonus 
-✓ Creative Enhancements:
-Improved Robot intelligence so that it can easily find alternate paths, when it's shortest path is blocked by another robot.
-If Robot battery drops below 20%, it automatically moves to nearest charging station to recharge itself(if in case,it's nearest charging station path is blocked, robot intelligently moves to other charging station or finds alternate path for that nearest charging station). 
+#### ✓ Creative Enhancements:
+1. Improved Robot intelligence so that it can easily find alternate paths, when it's shortest path is blocked by another robot.
+2. If Robot battery drops below 20%, it automatically moves to nearest charging station to recharge itself(if in case,it's nearest charging station path is blocked, robot intelligently moves to other charging station or finds alternate path for that nearest charging station). 
 
 ## 📦 Installation
 1. Clone the repository:
