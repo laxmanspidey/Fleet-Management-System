@@ -88,7 +88,7 @@ Supported real-time robot spawning/task assignment without interrupting active r
 ### 6. Occupancy and Conflict Notifications
 ✓ User Alerts:
 
-Provided visual/pop-up notifications for blocked paths/vertices.
+Provided visual notifications for blocked paths/vertices.
 
 ### 7. Logging & Monitoring
 ✓ Detailed Logging:
@@ -96,11 +96,10 @@ Provided visual/pop-up notifications for blocked paths/vertices.
 Logged robot actions, paths, and statuses in fleet_logs.txt.
 
 
-Bonus (If Applicable)
+### Bonus 
 ✓ Creative Enhancements:
-
-[Specify any extra features, e.g., optimized pathfinding, priority lanes, etc.]
-
+Improved Robot intelligence so that it can easily find alternate paths, when it's shortest path is blocked by another robot.
+If Robot battery drops below 20%, it automatically moves to nearest charging station to recharge itself(if in case,it's nearest charging station path is blocked, robot intelligently moves to other charging station or finds alternate path for that nearest charging station). 
 
 ## 📦 Installation
 1. Clone the repository:
