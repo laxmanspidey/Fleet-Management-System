@@ -58,9 +58,9 @@ Made vertices interactable (clickable) for spawning robots or assigning tasks.
 
 ✓ Robot Visualization:
 
-  -Used distinct colors/icons for robots.
-  -Implemented real-time movement visualization along lanes.
-  -Displayed robot statuses (moving, waiting, charging, task complete).
+  Used distinct colors/icons for robots.
+  Implemented real-time movement visualization along lanes.
+  Displayed robot statuses (moving, waiting, charging, task complete).
 
 ### 2. Robot Spawning
 ✓ Interactive GUI:
