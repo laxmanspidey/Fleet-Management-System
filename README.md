@@ -48,7 +48,7 @@ Run the main application:
 4. View real-time logs in logs/fleet_logs.txt
 
 
-## 🗺️ Level Designs
+## 🗺️ Level Designs:
 (a)Level 1
 (b)Level 2
 (c)Level 3
