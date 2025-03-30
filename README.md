@@ -63,6 +63,6 @@ A Python-based simulation system for managing multiple autonomous robots navigat
 3. Adjust simulation parameters:
     (a)Robot speed
     (b)Battery consumption rates
-
+    
 
 Developed with ❤️ by Laxman
